@@ -57,7 +57,7 @@ BasePage is a base class that provides common functionality for all Page Object 
 
 ### Installing
 
-1. Clone the repo: `git clone https://github.com/your/repo.git`
+1. Clone the repo: `git clone https://github.com/lmangwana/e-commerce-app-test-automation`
 2. Navigate to the project directory: `cd repo`
 3. Install dependencies: `mvn install`
 
