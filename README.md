@@ -32,8 +32,6 @@ BasePage is a base class that provides common functionality for all Page Object 
 
 - config.properties
 
-Sure, here’s the formatted version of the section you provided:
-
 ### src/test/java
 
 #### package testCases
