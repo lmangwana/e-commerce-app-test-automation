@@ -91,7 +91,7 @@ public class TC001 extends BasePage
 	 
 	 
 	 @AfterMethod
-	    public void closeBrowser()
+	    public void tearDown()
 	    {
 	        driver.quit();
 	    }
