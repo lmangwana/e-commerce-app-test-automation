@@ -19,9 +19,6 @@ import pageObjects.ShoppingCartPage;
 public class TC001 extends BasePage
 {
 
-	/**
-	 * @throws IOException
-	 */
 	public TC001() throws IOException {
 		super();
 	}
