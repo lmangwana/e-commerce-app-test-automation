@@ -28,7 +28,7 @@ BasePage is a base class that provides common functionality for all Page Object 
 - ProductDetailsPage
 - ShoppingCartPage
 
-### package resources
+#### package resources
 
 - config.properties
 
