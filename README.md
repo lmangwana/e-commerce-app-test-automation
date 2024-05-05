@@ -43,9 +43,9 @@ Sure, here’s the formatted version of the section you provided:
 
   Here’s a high-level description of the test:
 
-  - **Setup (@BeforeMethod)**: The setup method initializes the WebDriver instance and navigates to the application URL.
+  - **setUp (@BeforeMethod)**: The setup method initializes the WebDriver instance and navigates to the application URL.
 
-  - **Test (@Test)**: The test method, checkoutTest(), performs the following steps:
+  - **checkoutTest (@Test)**: The test method, checkoutTest(), performs the following steps:
     1. Selects a product named “T-Shirt” from the home page.
     2. Selects a size for the product on the product details page and adds the product to the cart.
     3. Proceeds to checkout from the product details page.
@@ -57,7 +57,7 @@ Sure, here’s the formatted version of the section you provided:
     9. Verifies the order confirmation message on the checkout page.
     10. Takes a screenshot of the current state of the application.
 
-  - **Teardown (@AfterMethod)**: The teardown method closes the browser after the test is completed.
+  - **tearDown (@AfterMethod)**: The teardown method closes the browser after the test is completed.
 ## Getting Started
 
 ### Dependencies
